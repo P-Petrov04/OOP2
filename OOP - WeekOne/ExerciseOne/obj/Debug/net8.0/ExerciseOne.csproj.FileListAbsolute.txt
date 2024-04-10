@@ -1,0 +1,15 @@
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\bin\Debug\net8.0\ExerciseOne.exe
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\bin\Debug\net8.0\ExerciseOne.deps.json
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\bin\Debug\net8.0\ExerciseOne.runtimeconfig.json
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\bin\Debug\net8.0\ExerciseOne.dll
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\bin\Debug\net8.0\ExerciseOne.pdb
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\ExerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\ExerciseOne.AssemblyInfoInputs.cache
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\ExerciseOne.AssemblyInfo.cs
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\ExerciseOne.sourcelink.json
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\ExerciseOne.dll
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\refint\ExerciseOne.dll
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\ExerciseOne.pdb
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\ExerciseOne.genruntimeconfig.cache
+C:\My files\Уни - Програмиране\C#\OOP2\OOP - WeekOne\ExerciseOne\obj\Debug\net8.0\ref\ExerciseOne.dll
