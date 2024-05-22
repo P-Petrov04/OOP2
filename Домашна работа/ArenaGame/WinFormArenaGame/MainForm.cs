@@ -39,7 +39,7 @@ namespace WinFormArenaGame
 
             GameEngine gameEngine = new GameEngine()
             {
-                HeroA = new Knight("Knight", 10, 20, new Sword("Sword")),
+                HeroA = new Knight("Knight", 10, 20, new Mace("Mace")),
                 HeroB = new Assassin("Assassin", 10, 5, new Dagger("Dagger")),
                 NotificationsCallBack = gameNotification
             };

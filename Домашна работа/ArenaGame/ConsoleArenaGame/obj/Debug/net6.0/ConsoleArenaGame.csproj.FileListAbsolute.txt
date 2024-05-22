@@ -16,3 +16,22 @@ C:\Users\FMI\OOP\AreanGame\ConsoleArenaGame\obj\Debug\net6.0\refint\ConsoleArena
 C:\Users\FMI\OOP\AreanGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.pdb
 C:\Users\FMI\OOP\AreanGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.genruntimeconfig.cache
 C:\Users\FMI\OOP\AreanGame\ConsoleArenaGame\obj\Debug\net6.0\ref\ConsoleArenaGame.dll
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.exe
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.deps.json
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.runtimeconfig.json
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.dll
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.pdb
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\bin\Debug\net6.0\ArenaGame.dll
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\bin\Debug\net6.0\ArenaGame.pdb
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.csproj.AssemblyReference.cache
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.AssemblyInfoInputs.cache
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.AssemblyInfo.cs
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.csproj.CoreCompileInputs.cache
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.sourcelink.json
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleA.0CC297AC.Up2Date
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.dll
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\refint\ConsoleArenaGame.dll
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.pdb
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.genruntimeconfig.cache
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ConsoleArenaGame\obj\Debug\net6.0\ref\ConsoleArenaGame.dll

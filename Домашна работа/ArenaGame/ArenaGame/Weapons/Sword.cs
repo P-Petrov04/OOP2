@@ -17,7 +17,7 @@ namespace ArenaGame.Weapons
         public Sword(string name)
         {
             Name = name;
-            AttackDamage = 20;
+            AttackDamage = 15;
             BlockingPower = 10;
         }
     }

@@ -6,19 +6,17 @@ using System.Threading.Tasks;
 
 namespace ArenaGame.Weapons
 {
-    public class Dagger : IWeapon
+    public class Mace : IWeapon
     {
         public string Name { get; set; }
-
         public double AttackDamage { get; private set; }
-
         public double BlockingPower { get; private set; }
 
-        public Dagger(string name)
+        public Mace(string name)
         {
             Name = name;
-            AttackDamage = 20;
-            BlockingPower = 5;
+            AttackDamage = 15;
+            BlockingPower = 7;
         }
     }
 }

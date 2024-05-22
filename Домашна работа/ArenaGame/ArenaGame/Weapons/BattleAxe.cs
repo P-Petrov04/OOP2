@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArenaGame.Weapons
 {
-    public class Dagger : IWeapon
+    public class BattleAxe : IWeapon
     {
         public string Name { get; set; }
 
@@ -14,11 +14,11 @@ namespace ArenaGame.Weapons
 
         public double BlockingPower { get; private set; }
 
-        public Dagger(string name)
+        public BattleAxe(string name)
         {
             Name = name;
-            AttackDamage = 20;
-            BlockingPower = 5;
+            AttackDamage = 18;
+            BlockingPower = 8;
         }
     }
 }

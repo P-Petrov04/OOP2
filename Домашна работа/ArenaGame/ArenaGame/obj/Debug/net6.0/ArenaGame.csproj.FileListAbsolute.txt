@@ -22,3 +22,15 @@ C:\My files\Уни - Програмиране\C#\OOP2\Домашна работ�
 C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\AreanGame\ArenaGame\obj\Debug\net6.0\refint\ArenaGame.dll
 C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.pdb
 C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\AreanGame\ArenaGame\obj\Debug\net6.0\ref\ArenaGame.dll
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\bin\Debug\net6.0\ArenaGame.deps.json
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\bin\Debug\net6.0\ArenaGame.dll
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\bin\Debug\net6.0\ArenaGame.pdb
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\obj\Debug\net6.0\ArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\obj\Debug\net6.0\ArenaGame.AssemblyInfoInputs.cache
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\obj\Debug\net6.0\ArenaGame.AssemblyInfo.cs
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\obj\Debug\net6.0\ArenaGame.csproj.CoreCompileInputs.cache
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\obj\Debug\net6.0\ArenaGame.sourcelink.json
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\obj\Debug\net6.0\ArenaGame.dll
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\obj\Debug\net6.0\refint\ArenaGame.dll
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\obj\Debug\net6.0\ArenaGame.pdb
+C:\My files\Уни - Програмиране\C#\OOP2\Домашна работа\ArenaGame\ArenaGame\obj\Debug\net6.0\ref\ArenaGame.dll

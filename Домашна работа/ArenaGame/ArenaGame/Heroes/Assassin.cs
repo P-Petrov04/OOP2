@@ -18,7 +18,7 @@ namespace ArenaGame.Heroes
             double damage = base.Attack();
 
             double probability = random.NextDouble();
-            if (probability < 0.10)
+            if (probability < 0.40) //Dagger Ability
             {
                 damage *= 3;
             }

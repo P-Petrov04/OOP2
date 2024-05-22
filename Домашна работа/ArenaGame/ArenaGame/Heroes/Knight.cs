@@ -9,6 +9,8 @@ namespace ArenaGame.Heroes
 {
     public class Knight: Hero
     {
+        private Random didAbilityWillBeActivated = new Random();
+        private int abilityUseCount = 0;
         private double hitCount;
         private double damageCoef;
         public Knight(string name, double armor, double strenght, IWeapon weapon) : base(name, armor, strenght, weapon)
@@ -20,9 +22,17 @@ namespace ArenaGame.Heroes
         public override double Attack()
         {
             double damage = base.Attack();
-            double realDamage = damage * damageCoef;
-            if (damageCoef < 1) damageCoef += 0.1;
-            return realDamage;
+            if (damageCoef < 1 && Weapon.GetType().Name == "Sword") //Sword Ability
+            {
+                damageCoef += 0.1; 
+                damage = damage * damageCoef;
+            }
+            else if (didAbilityWillBeActivated.Next(0, 2) == 1 && Weapon.GetType().Name == "Mace" && abilityUseCount < 1) //Mace Ability
+            {
+                abilityUseCount++;
+                damage += (this.Attack() / 2);
+            }
+            return damage;
         }
 
         public override double Defend(double damage)
