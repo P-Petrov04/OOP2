@@ -1,0 +1,5 @@
+Archer - Bow - Head Shot - One shot enemy;
+Knight - Sword - Increase damage;
+       - Mace - Stun enemy - do 2 attacks in a row;
+Barbarian - Axe - Berserk Mode - on low hp double the damage;
+Assasin - Dager - Based on random num increase damage for current attack.
