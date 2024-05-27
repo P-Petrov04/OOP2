@@ -1,6 +1,7 @@
 ﻿using ArenaGame;
 using ArenaGame.Heroes;
 using ArenaGame.Weapons;
+using System.Runtime.CompilerServices;
 
 namespace ConsoleArenaGame
 {
@@ -16,11 +17,11 @@ namespace ConsoleArenaGame
         {
             GameEngine gameEngine = new GameEngine()
             {
-                HeroA = new Knight("Knight", 10, 20, new Mace("Mace")),
-                HeroB = new Assassin("Assassin", 10, 5, new Dagger("Dagger")),
                 NotificationsCallBack = ConsoleNotification
                 //NotificationsCallBack = args => Console.WriteLine($"{args.Attacker.Name} attacked {args.Defender.Name} with {args.Attack} and caused {args.Damage} damage.")
             };
+            gameEngine.HeroA = gameEngine.ChooseHeroForFight();
+            gameEngine.HeroB = gameEngine.ChooseHeroForFight();
 
             gameEngine.Fight();
 

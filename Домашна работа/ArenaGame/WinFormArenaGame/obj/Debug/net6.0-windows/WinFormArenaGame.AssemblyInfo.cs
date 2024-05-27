@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormArenaGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06b6415dee509ed869c94e88fb5e734743f04a9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75c402295303e03eac9f77c31fa40dcc9e74cded")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormArenaGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormArenaGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

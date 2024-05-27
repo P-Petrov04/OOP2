@@ -55,7 +55,7 @@ namespace ArenaGame
 
         public override string ToString()
         {
-            return $"{Name} with health {Math.Round(Health,2)}";
+            return $"{Name} with health {Health:f2}";
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ArenaGame.Heroes;
+using ArenaGame.Weapons;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -61,6 +63,31 @@ namespace ArenaGame
                 defender = tempHero;
             }
             Winner = defender;
+        }
+
+        public Hero ChooseHeroForFight()
+        {
+            int heroNum = random.Next(1, 5);
+            if(heroNum == 1)
+            {
+                return new Assassin("Assassin", 10, 5, new Dagger("Dagger"));
+            }
+            else if(heroNum == 2)
+            {
+                return new Archer("Archer", 5, 10, new Bow("Bow"));
+            }
+            else if(heroNum == 3)
+            {
+                return new Barbarian("Barbarian", 10, 15, new BattleAxe("Axe"));
+            }
+
+            int numForWeapon = random.Next(1, 3);
+            if(numForWeapon == 1)
+            {
+                return new Knight("Knight", 10, 20, new Sword("Sword"));
+            }
+
+            return new Knight("Knight", 10, 20, new Mace("Mace"));
         }
     }
 }
